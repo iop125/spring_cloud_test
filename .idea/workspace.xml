@@ -58,7 +58,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01_consumer8082" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.consumer.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="01_provider8081" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.provider.Application" />
